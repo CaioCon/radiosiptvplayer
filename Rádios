@@ -1,0 +1,38 @@
+[
+  {
+    "id": "coqueirosfm",
+    "name": "Rádio Coqueiros 95.3 FM",
+    "type": "radio",
+    "url": "http://1.stmip.net:8062/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio12205_1681156931.jpg",
+    "city": "Sobral",
+    "state": "CE",
+    "category": "ce",
+    "frequency": "95.3 FM",
+    "letter": "R"
+  },
+  {
+    "id": "radioprincesa107.3fm",
+    "name": "Rádio Princesa 107.3 FM",
+    "type": "radio",
+    "url": "https://5a57bda70564a.streamlock.net/princehd/princehd.stream/chunklist_w1645545640.m3u8",
+    "icon": "https://img.radios.com.br/radio/lg/radio14348_1728928715.jpg",
+    "city": "Capanema",
+    "state": "PA",
+    "category": "pa",
+    "frequency": "107.3 FM",
+    "letter": "R"
+  },
+  {
+    "id": "radio99fm",
+    "name": "Rádio 99 FM",
+    "type": "radio",
+    "url": "http://hts02.kshost.com.br:8862/live",
+    "icon": "https://img.radios.com.br/radio/lg/radio8901_1713424756.jpeg",
+    "city": "Belém",
+    "state": "PA",
+    "category": "pa",
+    "frequency": "99 FM",
+    "letter": "R"
+  }
+]
