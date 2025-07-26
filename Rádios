@@ -24,7 +24,7 @@
     "letter": "R"
   },
   {
-    "id": "radio99fm",
+    "id": "radio_99fm",
     "name": "Rádio 99 FM",
     "type": "radio",
     "url": "http://hts02.kshost.com.br:8862/live",
@@ -34,5 +34,17 @@
     "category": "pa",
     "frequency": "99 FM",
     "letter": "R"
-  }
+  },
+  {
+    "id": "radio_89fm",
+    "name": "Rádio 89 FM Rádio Rock",
+    "type": "radio",
+    "url": "https://26523.live.streamtheworld.com:443/RADIO_89FM_ADP.aac",
+    "icon": "https://img.radios.com.br/radio/lg/radio31289_1439401796.jpg",
+    "city": "São Paulo",
+    "state": "SP",
+    "category": "sp",
+    "frequency": "89 FM",
+    "letter": "R"
+}
 ]
