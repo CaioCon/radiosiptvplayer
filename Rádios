@@ -21,7 +21,7 @@
     "state": "PA",
     "category": "pa",
     "frequency": "107.3 FM",
-    "letter": "R"
+    "letter": "P"
   },
   {
     "id": "radio_99fm",
@@ -46,5 +46,17 @@
     "category": "sp",
     "frequency": "89 FM",
     "letter": "R"
+  },
+  {
+    "id": " ",
+    "name": "Rádio_Cidade97.9FM",
+    "type": "radio",
+    "url": "http://sv11.hdradios.net:8118/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio13192_1711350743.jpg",
+    "city": "Piripiri",
+    "state": "PI",
+    "category": "pi",
+    "frequency": "97.9 FM",
+    "letter": "C"
 }
 ]
