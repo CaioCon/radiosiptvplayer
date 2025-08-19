@@ -12,6 +12,18 @@
     "letter": "R"
   },
   {
+    "id": "liderfm103.1fm",
+    "name": "Rádio Líder 103.1 FM",
+    "type": "radio",
+    "url": "https://stm1.brsrv.xyz:7082/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio13618_1655208121.png",
+    "city": "Itapipoca",
+    "state": "CE",
+    "category": "ce",
+    "frequency": "103.1 FM",
+    "letter": "L"
+  },
+  {
     "id": "radioprincesa107.3fm",
     "name": "Rádio Princesa 107.3 FM",
     "type": "radio",
