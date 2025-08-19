@@ -58,5 +58,17 @@
     "category": "pi",
     "frequency": "97.9 FM",
     "letter": "C"
+  },
+  {
+    "id": "radioclube99.1FM",
+    "name": "Rádio Clube 99.1 FM",
+    "type": "radio",
+    "url": "http://stm4.xcast.com.br:8938/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio31754_1665761300.jpg",
+    "city": "Teresina",
+    "state": "PI",
+    "category": "pi",
+    "frequency": "99.1 FM",
+    "letter": "C"
   }
 ]
