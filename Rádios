@@ -21,7 +21,7 @@
     "state": "PA",
     "category": "pa",
     "frequency": "107.3 FM",
-    "letter": "P"
+    "letter": "R"
   },
   {
     "id": "radio_99fm",
@@ -36,18 +36,6 @@
     "letter": "R"
   },
   {
-    "id": "radio_89fm",
-    "name": "Rádio 89 FM Rádio Rock",
-    "type": "radio",
-    "url": "https://26523.live.streamtheworld.com:443/RADIO_89FM_ADP.aac",
-    "icon": "https://img.radios.com.br/radio/lg/radio31289_1439401796.jpg",
-    "city": "São Paulo",
-    "state": "SP",
-    "category": "sp",
-    "frequency": "89 FM",
-    "letter": "R"
-  },
-  {
     "id": "radio_cidade97.9FM",
     "name": "Rádio Cidade 97.9 FM",
     "type": "radio",
@@ -58,17 +46,5 @@
     "category": "pi",
     "frequency": "97.9 FM",
     "letter": "C"
-},
-{
-    "id": "americanpie",
-    "name": "American Pie: A Primeira Vez é Inesquecível",
-    "type": "filme",
-    "url": "http://c.maintech.top:80/movie/IPTVBR/IPTVBR/6657233.mp4",
-    "icon": "https://image.tmdb.org/t/p/w400/iLUxyiy2Pfo82OsmfgvHbQbMOAu.jpg",
-    "city": "desc",
-    "state": "desc",
-    "category": "desc",
-    "frequency": "desc",
-    "letter": "A"
-}
+  }
 ]
