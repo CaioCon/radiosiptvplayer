@@ -9,7 +9,7 @@
     "state": "CE",
     "category": "ce",
     "frequency": "95.3 FM",
-    "letter": "R"
+    "letter": "C"
   },
   {
     "id": "liderfm103.1fm",
@@ -33,7 +33,7 @@
     "state": "PA",
     "category": "pa",
     "frequency": "107.3 FM",
-    "letter": "R"
+    "letter": "P"
   },
   {
     "id": "radio_99fm",
