@@ -70,7 +70,7 @@
     "category": "mg",
     "frequency": "105.1 FM",
     "letter": "A"
-  }
+  },
   {
     "id": "bh_fm",
     "name": "Rádio BH FM 102.1",
@@ -142,5 +142,5 @@
     "category": "mg",
     "frequency": "95 FM",
     "letter": "S"
-  },
+  }
 ]
