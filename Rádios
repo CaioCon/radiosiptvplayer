@@ -1,5 +1,41 @@
 [
   {
+    "id": "fm_93",
+    "name": "Rádio 93 FM",
+    "type": "radio",
+    "url": "https://jvcs2dtro0.zoeweb.tv/fm93/stream/chunklist_w518906299.m3u8",
+    "icon": "https://img.radios.com.br/radio/lg/radio107_1664371637.png",
+    "city": "Fortaleza",
+    "state": "CE",
+    "category": "ce",
+    "frequency": "93 FM",
+    "letter": "R"
+  },
+  {
+    "id": "cidade_fm",
+    "name": "Rádio Cidade 99.1 FM",
+    "type": "radio",
+    "url": "https://streaming.livespanel.com:9910/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio11435_1713540627.png",
+    "city": "Fortaleza",
+    "state": "CE",
+    "category": "ce",
+    "frequency": "99.1 FM",
+    "letter": "C"
+  },
+  {
+    "id": "radio_lideranca",
+    "name": "Rádio Liderança FM",
+    "type": "radio",
+    "url": "https://webradio.amsolution.com.br/radio/8320/lideranca",
+    "icon": "https://img.radios.com.br/radio/lg/radio13690_1510752146.jpg",
+    "city": "Fortaleza",
+    "state": "CE",
+    "category": "ce",
+    "frequency": "",
+    "letter": "L"
+  },
+  }
     "id": "jangadeiro_ce",
     "name": "Rádio Jangadeiro 88.9 FM",
     "type": "radio",
@@ -22,42 +58,6 @@
     "category": "ce",
     "frequency": "",
     "letter": "S"
-  },
-  {
-    "id": "radio_lideranca",
-    "name": "Rádio Liderança FM",
-    "type": "radio",
-    "url": "https://webradio.amsolution.com.br/radio/8320/lideranca",
-    "icon": "https://img.radios.com.br/radio/lg/radio13690_1510752146.jpg",
-    "city": "Fortaleza",
-    "state": "CE",
-    "category": "ce",
-    "frequency": "",
-    "letter": "L"
-  },
-  {
-    "id": "cidade_fm",
-    "name": "Rádio Cidade 99.1 FM",
-    "type": "radio",
-    "url": "https://streaming.livespanel.com:9910/stream",
-    "icon": "https://img.radios.com.br/radio/lg/radio11435_1713540627.png",
-    "city": "Fortaleza",
-    "state": "CE",
-    "category": "ce",
-    "frequency": "99.1 FM",
-    "letter": "C"
-  },
-  {
-    "id": "fm_93",
-    "name": "Rádio 93 FM",
-    "type": "radio",
-    "url": "https://jvcs2dtro0.zoeweb.tv/fm93/stream/chunklist_w518906299.m3u8",
-    "icon": "https://img.radios.com.br/radio/lg/radio107_1664371637.png",
-    "city": "Fortaleza",
-    "state": "CE",
-    "category": "ce",
-    "frequency": "93 FM",
-    "letter": "R"
   },
   {
     "id": "verdinha",
