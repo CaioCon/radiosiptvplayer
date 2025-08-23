@@ -216,42 +216,6 @@
     "letter": "M"
   },
   {
-    "id": "radioativa1049fm",
-    "name": "Rádio Ativa 104.9 FM",
-    "type": "radio",
-    "url": "https://stm28.xcast.com.br:8002/stream",
-    "icon": "https://img.radios.com.br/radio/lg/radio40279_1643636061.jpg",
-    "city": "Piracuruca",
-    "state": "PI",
-    "category": "pi",
-    "frequency": "104.9 FM",
-    "letter": "A"
-  },
-  {
-    "id": "radioclube991fm",
-    "name": "Rádio Clube 99.1 FM",
-    "type": "radio",
-    "url": "http://stm4.xcast.com.br:8938/stream",
-    "icon": "https://img.radios.com.br/radio/lg/radio31754_1665761300.jpg",
-    "city": "Teresina",
-    "state": "PI",
-    "category": "pi",
-    "frequency": "99.1 FM",
-    "letter": "C"
-  },
-  {
-    "id": "radiocidade979fm",
-    "name": "Rádio Cidade 97.9 FM",
-    "type": "radio",
-    "url": "http://sv11.hdradios.net:8118/stream",
-    "icon": "https://img.radios.com.br/radio/lg/radio13192_1711350743.jpg",
-    "city": "Piripiri",
-    "state": "PI",
-    "category": "pi",
-    "frequency": "97.9 FM",
-    "letter": "C"
-  },
-  {
     "id": "lightfm103.9",
     "name": "Light FM 103.9",
     "type": "radio",
@@ -274,6 +238,90 @@
     "category": "mg",
     "frequency": "95 FM",
     "letter": "S"
+  },
+  {
+    "id": "radioativa1049fm",
+    "name": "Rádio Ativa 104.9 FM",
+    "type": "radio",
+    "url": "https://stm28.xcast.com.br:8002/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio40279_1643636061.jpg",
+    "city": "Piracuruca",
+    "state": "PI",
+    "category": "pi",
+    "frequency": "104.9 FM",
+    "letter": "A"
+  },
+  {
+    "id": "radiocidade979fm",
+    "name": "Rádio Cidade 97.9 FM",
+    "type": "radio",
+    "url": "http://sv11.hdradios.net:8118/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio13192_1711350743.jpg",
+    "city": "Piripiri",
+    "state": "PI",
+    "category": "pi",
+    "frequency": "97.9 FM",
+    "letter": "C"
+  },
+  {
+    "id": "radioclube991fm",
+    "name": "Rádio Clube 99.1 FM",
+    "type": "radio",
+    "url": "http://stm4.xcast.com.br:8938/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio31754_1665761300.jpg",
+    "city": "Teresina",
+    "state": "PI",
+    "category": "pi",
+    "frequency": "99.1 FM",
+    "letter": "C"
+  },
+  {
+    "id": "radiolitoral951fm",
+    "name": "Radio Litoral 95.1 FM",
+    "type": "radio",
+    "url": "https://servidor21.brlogic.com:7678/live",
+    "icon": "https://img.radios.com.br/radio/lg/radio24610_1739277938.jpeg",
+    "city": "Parnaíba",
+    "state": "PI",
+    "category": "pi",
+    "frequency": "95.1 FM",
+    "letter": "L"
+  },
+  {
+    "id": "radiomeionorte999fm",
+    "name": "Rádio Meio Norte 99.9 FM",
+    "type": "radio",
+    "url": "https://webradio.amsolution.com.br/radio/8280/meionorte",
+    "icon": "https://img.radios.com.br/radio/lg/radio13846_1712244731.jpg",
+    "city": "Teresina",
+    "state": "PI",
+    "category": "pi",
+    "frequency": "99.9 FM",
+    "letter": "M"
+  },
+  {
+    "id": "radiomix915fm",
+    "name": "Rádio Mix 91.5 FM",
+    "type": "radio",
+    "url": "https://webradio.amsolution.com.br/radio/8080/mix",
+    "icon": "https://img.radios.com.br/radio/lg/radio106004_1675436816.png",
+    "city": "Teresina",
+    "state": "PI",
+    "category": "pi",
+    "frequency": "91.5 FM",
+    "letter": "M"
+  },
+  {
+    "id": "radiouniao1011fm",
+    "name": "Rádio União 101.1 FM",
+    "type": "radio",
+    "url": "http://cast4.hoost.com.br:9565/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio119929_1569349737.png",
+    "city": "União",
+    "state": "PI",
+    "category": "pi",
+    "frequency": "101.1 FM",
+    "letter": "U"
   },
   {
     "id": "antena1",
