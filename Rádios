@@ -72,6 +72,66 @@
     "letter": "V"
   },
   {
+    "id": "jovempan",
+    "name": "Rádio Jovem Pan 100.9 FM",
+    "type": "radio",
+    "url": "https://stream-168.zeno.fm/c45wbq2us3buv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjNDV3YnEydXMzYnV2IiwiaG9zdCI6InN0cmVhbS0xNjguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik9LZER3SmFWVG02eDJNS3g1M2JyZ1EiLCJpYXQiOjE3NTA2NDQ0OTIsImV4cCI6MTc1MDY0NDU1Mn0.OuqGpch5zeJ1VonTyvCCiIYjXP5584aqX5jXvGOeXbo",
+    "icon": "https://img.radios.com.br/radio/lg/radio8829_1708517690.png",
+    "city": "São Paulo",
+    "state": "SP",
+    "category": "sp",
+    "frequency": "100.9 FM",
+    "letter": "J"
+  },
+  {
+    "id": "radio_mix",
+    "name": "Rádio Mix 107.9 FM",
+    "type": "radio",
+    "url": "https://24233.live.streamtheworld.com:443/MIXFM_SAOPAULOAAC.aac",
+    "icon": "https://img.radios.com.br/radio/lg/radio217985_1701706636.png",
+    "city": "São José Do Rio Preto",
+    "state": "SP",
+    "category": "sp",
+    "frequency": "107.9 FM",
+    "letter": "J"
+  },
+  {
+    "id": "hot_fm",
+    "name": "Rádio Hot 107 FM",
+    "type": "radio",
+    "url": "https://9772.brasilstream.com.br/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio8760_1565178044.png",
+    "city": "São Paulo",
+    "state": "SP",
+    "category": "sp",
+    "frequency": "107 FM",
+    "letter": "H"
+  },
+  {
+    "id": "antena1",
+    "name": "Antena 1 94.7 FM",
+    "type": "radio",
+    "url": "https://antenaone.crossradio.com.br/stream/1",
+    "icon": "https://img.radios.com.br/radio/lg/radio9505_1574106966.jpg",
+    "city": "São Paulo",
+    "state": "SP",
+    "category": "sp",
+    "frequency": "94.7 FM",
+    "letter": "A"
+  },
+  {
+    "id": "radio_transamerica",
+    "name": "Rádio Transamérica 100.1 FM",
+    "type": "radio",
+    "url": "https://26663.live.streamtheworld.com:443/RT_SP.mp3",
+    "icon": "https://img.radios.com.br/radio/lg/radio8803_1578516680.png",
+    "city": "São Paulo",
+    "state": "SP",
+    "category": "sp",
+    "frequency": "100.1 FM",
+    "letter": "T"
+  },
+  {
     "id": "mirante96.1fm",
     "name": "Rádio Mirante 96.1 FM",
     "type": "radio",
