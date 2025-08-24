@@ -1,7 +1,7 @@
 [
   {
     "id": "fm_93",
-    "name": "Rádio 93 FM",
+    "name": "93 FM",
     "type": "radio",
     "url": "https://jvcs2dtro0.zoeweb.tv/fm93/stream/chunklist_w518906299.m3u8",
     "icon": "https://img.radios.com.br/radio/lg/radio107_1664371637.png",
@@ -13,7 +13,7 @@
   },
   {
     "id": "cidade_fm",
-    "name": "Rádio Cidade 99.1 FM",
+    "name": "Cidade 99.1 FM",
     "type": "radio",
     "url": "https://streaming.livespanel.com:9910/stream",
     "icon": "https://img.radios.com.br/radio/lg/radio11435_1713540627.png",
@@ -25,7 +25,7 @@
   },
   {
     "id": "radio_lideranca",
-    "name": "Rádio Liderança FM",
+    "name": "Liderança FM",
     "type": "radio",
     "url": "https://webradio.amsolution.com.br/radio/8320/lideranca",
     "icon": "https://img.radios.com.br/radio/lg/radio13690_1510752146.jpg",
@@ -37,7 +37,7 @@
   },
   {
     "id": "jangadeiro_ce",
-    "name": "Rádio Jangadeiro 88.9 FM",
+    "name": "Jangadeiro 88.9 FM",
     "type": "radio",
     "url": "https://fmfortaleza.jmvstream.com/FMFortaleza_live?type=.flv",
     "icon": "https://img.radios.com.br/radio/lg/radio13520_1692020159.png",
@@ -49,7 +49,7 @@
   },
   {
     "id": "somzoom_sat",
-    "name": "Rádio SomZoom Sat",
+    "name": "SomZoom Sat",
     "type": "radio",
     "url": "http://str.7br.com.br:8060/stream",
     "icon": "https://img.radios.com.br/radio/lg/radio42319_1738566104.jpeg",
@@ -61,7 +61,7 @@
   },
   {
     "id": "verdinha",
-    "name": "Rádio Verdinha 92.5 FM",
+    "name": "Verdinha 92.5 FM",
     "type": "radio",
     "url": "https://5a1c76baf08c0.streamlock.net/z18-live/stream/chunklist.m3u8",
     "icon": "https://img.radios.com.br/radio/lg/radio14216_1680528339.jpg",
@@ -73,7 +73,7 @@
   },        
   {
     "id": "mirante96.1fm",
-    "name": "Rádio Mirante 96.1 FM",
+    "name": "Mirante 96.1 FM",
     "type": "radio",
     "url": "https://mirante2.jmvstream.com/stream",
     "icon": "https://img.radios.com.br/radio/lg/radio13935_1744986574.png",
@@ -85,7 +85,7 @@
   },
   {
     "id": "radiobacabal93.1fm",
-    "name": "Rádio Bacabal 93.1 FM",
+    "name": "Bacabal 93.1 FM",
     "type": "radio",
     "url": "http://stm7.xcast.com.br:12432/stream",
     "icon": "https://img.radios.com.br/radio/lg/radio42603_1683298791.jpg",
@@ -97,7 +97,7 @@
   },
   {
     "id": "jovempan",
-    "name": "Rádio Jovem Pan 102.5 FM",
+    "name": "Jovem Pan 102.5 FM",
     "type": "radio",
     "url": "https://radio02.zas.media/proxy/jovempansaoluis/stream",
     "icon": "https://img.radios.com.br/radio/lg/radio16168_1674831310.jpg",
@@ -109,7 +109,7 @@
   },
   {
     "id": "radiopinheiro",
-    "name": "Rádio Pinheiro 103.3 FM",
+    "name": "Pinheiro 103.3 FM",
     "type": "radio",
     "url": "http://stm15.betelhost.com.br:9050/stream",
     "icon": "https://img.radios.com.br/radio/lg/radio185009_1626443891.jpg",
@@ -133,7 +133,7 @@
   },
   {
     "id": "antena1_105.1fm",
-    "name": "Rádio Antena 1 105.1 FM",
+    "name": "Antena 1 105.1 FM",
     "type": "radio",
     "url": "https://stream.antena1.com.br/stream15",
     "icon": "https://img.radios.com.br/radio/lg/radio26098_1611252935.png",
@@ -145,7 +145,7 @@
   },
   {
     "id": "bh_fm",
-    "name": "Rádio BH FM 102.1",
+    "name": "BH FM 102.1",
     "type": "radio",
     "url": "https://27403.live.streamtheworld.com:443/BHFMAAC.aac?dist=radioscombr",
     "icon": "https://img.radios.com.br/radio/lg/radio8813_1622543620.png",
@@ -169,7 +169,7 @@
   },
   {
     "id": "radiomaxima97.1fm",
-    "name": "Rádio Máxima 97.1 FM",
+    "name": "Máxima 97.1 FM",
     "type": "radio",
     "url": "https://virtues.live:8226/stream?type=.flv",
     "icon": "https://img.radios.com.br/radio/lg/radio13829_1518724872.jpg",
@@ -181,7 +181,7 @@
   },
   {
     "id": "radiominas104.1fm",
-    "name": "Rádio Minas 104.1 FM",
+    "name": "Minas 104.1 FM",
     "type": "radio",
     "url": "http://centova.jmvstream.com:9816/stream",
     "icon": "https://img.radios.com.br/radio/lg/radio13695_1545903190.png",
@@ -205,7 +205,7 @@
   },
   {
     "id": "radiosuper95fm",
-    "name": "Rádio Super 95 FM",
+    "name": "Super 95 FM",
     "type": "radio",
     "url": "http://srv01.brasilstream.com.br:8038/stream",
     "icon": "https://img.radios.com.br/radio/lg/radio32982_1748260020.jpg",
@@ -217,7 +217,7 @@
   },
   {
     "id": "radioprincesa107.3fm",
-    "name": "Rádio Princesa 107.3 FM",
+    "name": "Princesa 107.3 FM",
     "type": "radio",
     "url": "https://5a57bda70564a.streamlock.net/princehd/princehd.stream/chunklist_w1645545640.m3u8",
     "icon": "https://img.radios.com.br/radio/lg/radio14348_1728928715.jpg",
@@ -229,7 +229,7 @@
   },
   {
     "id": "radio_99fm",
-    "name": "Rádio 99 FM",
+    "name": "99 FM",
     "type": "radio",
     "url": "http://hts02.kshost.com.br:8862/live",
     "icon": "https://img.radios.com.br/radio/lg/radio8901_1713424756.jpeg",
@@ -253,7 +253,7 @@
   },
   {
     "id": "radioclube991fm",
-    "name": "Clube FM 99.1 FM",
+    "name": "Clube FM 99.1",
     "type": "radio",
     "url": "http://stm4.xcast.com.br:8938/stream",
     "icon": "https://img.radios.com.br/radio/lg/radio31754_1665761300.jpg",
@@ -325,7 +325,7 @@
   },
   {
     "id": "nossardio1013fm",
-    "name": "Nossa Rádio FM 101.3",
+    "name": "Nossa FM 101.3",
     "type": "radio",
     "url": "https://servidor24.brlogic.com:8544/live",
     "icon": "https://img.radios.com.br/radio/lg/radio255847_1737977030.jpeg",
@@ -385,7 +385,7 @@
   },
   {
     "id": "hot_fm",
-    "name": "Rádio Hot 107 FM",
+    "name": "Hot 107 FM",
     "type": "radio",
     "url": "https://9772.brasilstream.com.br/stream",
     "icon": "https://img.radios.com.br/radio/lg/radio8760_1565178044.png",
@@ -397,7 +397,7 @@
   },
   {
     "id": "jovempan",
-    "name": "Rádio Jovem Pan 100.9 FM",
+    "name": "Jovem Pan 100.9 FM",
     "type": "radio",
     "url": "https://stream-168.zeno.fm/c45wbq2us3buv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjNDV3YnEydXMzYnV2IiwiaG9zdCI6InN0cmVhbS0xNjguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik9LZER3SmFWVG02eDJNS3g1M2JyZ1EiLCJpYXQiOjE3NTA2NDQ0OTIsImV4cCI6MTc1MDY0NDU1Mn0.OuqGpch5zeJ1VonTyvCCiIYjXP5584aqX5jXvGOeXbo",
     "icon": "https://img.radios.com.br/radio/lg/radio8829_1708517690.png",
@@ -409,7 +409,7 @@
   },
   {
     "id": "radio_mix",
-    "name": "Rádio Mix 107.9 FM",
+    "name": "Mix 107.9 FM",
     "type": "radio",
     "url": "https://24233.live.streamtheworld.com:443/MIXFM_SAOPAULOAAC.aac",
     "icon": "https://img.radios.com.br/radio/lg/radio217985_1701706636.png",
@@ -421,7 +421,7 @@
   },
   {
     "id": "radio_89fm",
-    "name": "Rádio 89 FM Rádio Rock",
+    "name": "89 FM Rock",
     "type": "radio",
     "url": "https://26523.live.streamtheworld.com:443/RADIO_89FM_ADP.aac",
     "icon": "https://img.radios.com.br/radio/lg/radio31289_1439401796.jpg",
@@ -433,7 +433,7 @@
   },
   {
     "id": "radio_transamerica",
-    "name": "Rádio Transamérica 100.1 FM",
+    "name": "Transamérica 100.1 FM",
     "type": "radio",
     "url": "https://26663.live.streamtheworld.com:443/RT_SP.mp3",
     "icon": "https://img.radios.com.br/radio/lg/radio8803_1578516680.png",
