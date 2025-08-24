@@ -1,27 +1,15 @@
 [
   {
-    "id": "radioacara915fm",
-    "name": "Acaraú FM 91.5",
+    "id": "fm_93",
+    "name": "Rádio 93 FM",
     "type": "radio",
-    "url": "https://stm11.voxhd.com.br:8868/stream",
-    "icon": "https://img.radios.com.br/radio/lg/radio24733_1715761315.png",
-    "city": "Acaraú",
+    "url": "https://jvcs2dtro0.zoeweb.tv/fm93/stream/chunklist_w518906299.m3u8",
+    "icon": "https://img.radios.com.br/radio/lg/radio107_1664371637.png",
+    "city": "Fortaleza",
     "state": "CE",
     "category": "ce",
-    "frequency": "91.5 FM",
-    "letter": "A"
-  },
-  {
-    "id": "radiocariri967fm",
-    "name": "Rádio Cariri 96.7 FM",
-    "type": "radio",
-    "url": "http://stm20.xcast.com.br:13016/stream",
-    "icon": "https://img.radios.com.br/radio/lg/radio30633_1652795060.jpg",
-    "city": "Barbalha",
-    "state": "CE",
-    "category": "ce",
-    "frequency": "96.7 FM",
-    "letter": "C"
+    "frequency": "93 FM",
+    "letter": "R"
   },
   {
     "id": "cidade_fm",
@@ -36,42 +24,6 @@
     "letter": "C"
   },
   {
-    "id": "radiocoqueiros953fm",
-    "name": "Coqueiros FM 95.3",
-    "type": "radio",
-    "url": "http://1.stmip.net:8062/stream",
-    "icon": "https://img.radios.com.br/radio/lg/radio12205_1681156931.jpg",
-    "city": "Sobral",
-    "state": "CE",
-    "category": "ce",
-    "frequency": "95.3 FM",
-    "letter": "C"
-  },
-  {
-    "id": "radioclube971fm",
-    "name": "Clube 97.1 FM",
-    "type": "radio",
-    "url": "https://f100.fabricahost.com.br/clubefmfortaleza?f=1755976904N01K3C62BZMEB7MKGBSY294PQ7G&tid=01K3C62BZMFCMK38E8QMH0Y8YN",
-    "icon": "https://img.radios.com.br/radio/lg/radio257242_1734202818.png",
-    "city": "Fortaleza",
-    "state": "CE",
-    "category": "ce",
-    "frequency": "97.1 FM",
-    "letter": "C"
-  },
-  {
-    "id": "jangadeiro_ce",
-    "name": "Rádio Jangadeiro 88.9 FM",
-    "type": "radio",
-    "url": "https://fmfortaleza.jmvstream.com/FMFortaleza_live?type=.flv",
-    "icon": "https://img.radios.com.br/radio/lg/radio13520_1692020159.png",
-    "city": "Fortaleza",
-    "state": "CE",
-    "category": "ce",
-    "frequency": "88.9 FM",
-    "letter": "J"
-  },
-  {
     "id": "radio_lideranca",
     "name": "Rádio Liderança FM",
     "type": "radio",
@@ -84,64 +36,16 @@
     "letter": "L"
   },
   {
-    "id": "radioliberdade937fm",
-    "name": "Liberdade FM 93.7",
+    "id": "jangadeiro_ce",
+    "name": "Rádio Jangadeiro 88.9 FM",
     "type": "radio",
-    "url": "https://stm1.brsrv.xyz:7096/stream",
-    "icon": "https://img.radios.com.br/radio/lg/radio40618_1563804619.jpg",
-    "city": "Itarema",
-    "state": "CE",
-    "category": "ce",
-    "frequency": "93.7 FM",
-    "letter": "L"
-  },
-  {
-    "id": "radiolder1031fm",
-    "name": "Líder FM 103.1",
-    "type": "radio",
-    "url": "https://stm1.brsrv.xyz:7082/stream",
-    "icon": "https://img.radios.com.br/radio/lg/radio13618_1655208121.png",
-    "city": "Itapipoca",
-    "state": "CE",
-    "category": "ce",
-    "frequency": "103.1 FM",
-    "letter": "L"
-  },
-  {
-    "id": "fm_93",
-    "name": "Rádio 93 FM",
-    "type": "radio",
-    "url": "https://jvcs2dtro0.zoeweb.tv/fm93/stream/chunklist_w518906299.m3u8",
-    "icon": "https://img.radios.com.br/radio/lg/radio107_1664371637.png",
+    "url": "https://fmfortaleza.jmvstream.com/FMFortaleza_live?type=.flv",
+    "icon": "https://img.radios.com.br/radio/lg/radio13520_1692020159.png",
     "city": "Fortaleza",
     "state": "CE",
     "category": "ce",
-    "frequency": "93 FM",
-    "letter": "R"
-  },
-  {
-    "id": "forquilha987fm",
-    "name": "Forquilha FM 98.7 FM",
-    "type": "radio",
-    "url": "https://stm12.pluscast.com.br:7232/stream",
-    "icon": "https://img.radios.com.br/radio/lg/radio35189_1720436120.png",
-    "city": "Forquilha",
-    "state": "CE",
-    "category": "ce",
-    "frequency": "98.7 FM",
-    "letter": "F"
-  },
-  {
-    "id": "genoveva987fm",
-    "name": "Genoveva FM 98.7",
-    "type": "radio",
-    "url": "http://stm7.voxhd.com.br:7772/stream",
-    "icon": "https://img.radios.com.br/radio/lg/radio65897_1670255127.jpg",
-    "city": "Bela Cruz",
-    "state": "CE",
-    "category": "ce",
-    "frequency": "98.7 FM",
-    "letter": "G"
+    "frequency": "88.9 FM",
+    "letter": "J"
   },
   {
     "id": "somzoom_sat",
@@ -166,18 +70,6 @@
     "category": "ce",
     "frequency": "92.5 FM",
     "letter": "V"
-  },
-  {
-    "id": "fmjovem1049",
-    "name": "FM Jovem 104.9",
-    "type": "radio",
-    "url": "https://stm25.xcast.com.br:7082/stream",
-    "icon": "https://img.radios.com.br/radio/lg/radio149353_1725875780.png",
-    "city": "Russas",
-    "state": "CE",
-    "category": "ce",
-    "frequency": "104.9 FM",
-    "letter": "J"
   },        
   {
     "id": "mirante96.1fm",
@@ -226,30 +118,6 @@
     "category": "ma",
     "frequency": "103.3 FM",
     "letter": "P"
-  },
-  {
-    "id": "radioprincesa107.3fm",
-    "name": "Rádio Princesa 107.3 FM",
-    "type": "radio",
-    "url": "https://5a57bda70564a.streamlock.net/princehd/princehd.stream/chunklist_w1645545640.m3u8",
-    "icon": "https://img.radios.com.br/radio/lg/radio14348_1728928715.jpg",
-    "city": "Capanema",
-    "state": "PA",
-    "category": "pa",
-    "frequency": "107.3 FM",
-    "letter": "R"
-  },
-  {
-    "id": "radio_99fm",
-    "name": "Rádio 99 FM",
-    "type": "radio",
-    "url": "http://hts02.kshost.com.br:8862/live",
-    "icon": "https://img.radios.com.br/radio/lg/radio8901_1713424756.jpeg",
-    "city": "Belém",
-    "state": "PA",
-    "category": "pa",
-    "frequency": "99 FM",
-    "letter": "R"
   },
   {
     "id": "alvoradafm94.9",
@@ -346,6 +214,162 @@
     "category": "mg",
     "frequency": "95 FM",
     "letter": "S"
+  },
+  {
+    "id": "radioprincesa107.3fm",
+    "name": "Rádio Princesa 107.3 FM",
+    "type": "radio",
+    "url": "https://5a57bda70564a.streamlock.net/princehd/princehd.stream/chunklist_w1645545640.m3u8",
+    "icon": "https://img.radios.com.br/radio/lg/radio14348_1728928715.jpg",
+    "city": "Capanema",
+    "state": "PA",
+    "category": "pa",
+    "frequency": "107.3 FM",
+    "letter": "R"
+  },
+  {
+    "id": "radio_99fm",
+    "name": "Rádio 99 FM",
+    "type": "radio",
+    "url": "http://hts02.kshost.com.br:8862/live",
+    "icon": "https://img.radios.com.br/radio/lg/radio8901_1713424756.jpeg",
+    "city": "Belém",
+    "state": "PA",
+    "category": "pa",
+    "frequency": "99 FM",
+    "letter": "R"
+  },
+  {
+    "id": "radiocidade979fm",
+    "name": "Cidade FM 97.9",
+    "type": "radio",
+    "url": "http://sv11.hdradios.net:8118/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio13192_1711350743.jpg",
+    "city": "Piripiri",
+    "state": "PI",
+    "category": "pi",
+    "frequency": "97.9 FM",
+    "letter": "C"
+  },
+  {
+    "id": "radioclube991fm",
+    "name": "Clube FM 99.1 FM",
+    "type": "radio",
+    "url": "http://stm4.xcast.com.br:8938/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio31754_1665761300.jpg",
+    "city": "Teresina",
+    "state": "PI",
+    "category": "pi",
+    "frequency": "99.1 FM",
+    "letter": "C"
+  },
+  {
+    "id": "radioestaomegalaser",
+    "name": "Estação Mega Laser",
+    "type": "radio",
+    "url": "https://stm11.xcast.com.br:11482/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio117344_1592396399.png",
+    "city": "Teresina",
+    "state": "PI",
+    "category": "pi",
+    "frequency": " ",
+    "letter": "E"
+  },
+  {
+    "id": "radioitamaraty1077fm",
+    "name": "Itamaraty FM 107.7",
+    "type": "radio",
+    "url": "https://cast.radiograma.com.br:8015/fmitamaraty",
+    "icon": "https://img.radios.com.br/radio/lg/radio26490_1549584248.jpg",
+    "city": "Piripiri",
+    "state": "PI",
+    "category": "pi",
+    "frequency": "107.7 FM",
+    "letter": "I"
+  },
+  {
+    "id": "radiomeionorte1053fm",
+    "name": "Meio Norte FM 105.3 FM",
+    "type": "radio",
+    "url": "https://webradio.amsolution.com.br/radio/8310/oeiras",
+    "icon": "https://img.radios.com.br/radio/lg/radio69719_1719862575.jpg",
+    "city": "Oeiras",
+    "state": "PI",
+    "category": "pi",
+    "frequency": "105.3 FM",
+    "letter": "M"
+  },
+  {
+    "id": "radiomeionorte971fm",
+    "name": "Meio Norte FM 97.1",
+    "type": "radio",
+    "url": "https://webradio.amsolution.com.br/radio/8390/esperantina",
+    "icon": "https://img.radios.com.br/radio/lg/radio34654_1451925058.jpg",
+    "city": "Esperantina",
+    "state": "PI",
+    "category": "pi",
+    "frequency": "97.1 FM",
+    "letter": "M"
+  },
+  {
+    "id": "radiomix915fm",
+    "name": "Mix FM 91.5 FM",
+    "type": "radio",
+    "url": "https://webradio.amsolution.com.br/radio/8080/mix",
+    "icon": "https://img.radios.com.br/radio/lg/radio106004_1675436816.png",
+    "city": "Teresina",
+    "state": "PI",
+    "category": "pi",
+    "frequency": "91.5 FM",
+    "letter": "M"
+  },
+  {
+    "id": "nossardio1013fm",
+    "name": "Nossa Rádio FM 101.3",
+    "type": "radio",
+    "url": "https://servidor24.brlogic.com:8544/live",
+    "icon": "https://img.radios.com.br/radio/lg/radio255847_1737977030.jpeg",
+    "city": "Teresina",
+    "state": "PI",
+    "category": "pi",
+    "frequency": "101.3 FM",
+    "letter": "N"
+  },
+  {
+    "id": "radioprincesa979fm",
+    "name": "Princesa FM 97.9 FM",
+    "type": "radio",
+    "url": "https://stm2.brsrv.xyz:7464/aac?type=.flv",
+    "icon": "https://img.radios.com.br/radio/lg/radio14350_1505841696.png",
+    "city": "Floriano",
+    "state": "PI",
+    "category": "pi",
+    "frequency": "97.9 FM",
+    "letter": "P"
+  },
+  {
+    "id": "radioteresina919fm",
+    "name": "Teresina FM 91.9",
+    "type": "radio",
+    "url": "https://servidor27.brlogic.com:8034/live",
+    "icon": "https://img.radios.com.br/radio/lg/radio14783_1737051934.jpg",
+    "city": "Teresina",
+    "state": "PI",
+    "category": "pi",
+    "frequency": "91.9 FM",
+    "letter": "T"
+  },
+  {
+    "id": "radioverdescampos1041fm",
+    "name": "Verdes Campos FM 104.1",
+    "type": "radio",
+    "url": "http://player.rpmhost.com.br/proxy/8084",
+    "icon": "https://img.radios.com.br/radio/lg/radio245744_1754060485.png",
+    "city": "Barras",
+    "state": "PI",
+    "category": "pi",
+    "frequency": "104.1 FM",
+    "letter": "V"
   },
   {
     "id": "antena1",
