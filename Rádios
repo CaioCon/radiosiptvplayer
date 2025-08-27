@@ -652,6 +652,7 @@
     "name": "Cidade FM 97.9",
     "type": "radio",
     "url": "http://sv11.hdradios.net:8118/stream",
+    "url": "http://sv11.hdradios.net:8118/stream?type=.flv",
     "icon": "https://img.radios.com.br/radio/lg/radio13192_1711350743.jpg",
     "city": "Piripiri",
     "state": "PI",
