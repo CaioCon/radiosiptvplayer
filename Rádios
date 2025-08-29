@@ -84,18 +84,6 @@
     "letter": "D"
   },
   {
-    "id": "fm_93",
-    "name": "FM 93",
-    "type": "radio",
-    "url": "https://jvcs2dtro0.zoeweb.tv/fm93/stream/chunklist_w518906299.m3u8",
-    "icon": "https://img.radios.com.br/radio/lg/radio107_1664371637.png",
-    "city": "Fortaleza",
-    "state": "CE",
-    "category": "ce",
-    "frequency": "93 FM",
-    "letter": "F"
-  },
-  {
     "id": "radioforquilha987fm",
     "name": "Forquilha 98.7 FM",
     "type": "radio",
@@ -168,8 +156,20 @@
     "letter": "P"
   },
   {
+    "id": "fm_93",
+    "name": "Rádio 93 FM",
+    "type": "radio",
+    "url": "https://jvcs2dtro0.zoeweb.tv/fm93/stream/chunklist_w518906299.m3u8",
+    "icon": "https://img.radios.com.br/radio/lg/radio107_1664371637.png",
+    "city": "Fortaleza",
+    "state": "CE",
+    "category": "ce",
+    "frequency": "93 FM",
+    "letter": "R"
+  },
+  {
     "id": "cidade_fm",
-    "name": "Cidade 99.1 FM",
+    "name": "Rádio Cidade 99.1 FM",
     "type": "radio",
     "url": "https://streaming.livespanel.com:9910/stream",
     "icon": "https://img.radios.com.br/radio/lg/radio11435_1713540627.png",
@@ -181,7 +181,7 @@
   },
   {
     "id": "jangadeiro_ce",
-    "name": "Jangadeiro 88.9 FM",
+    "name": "Rádio Jangadeiro 88.9 FM",
     "type": "radio",
     "url": "https://fmfortaleza.jmvstream.com/FMFortaleza_live?type=.flv",
     "icon": "https://img.radios.com.br/radio/lg/radio13520_1692020159.png",
@@ -193,7 +193,7 @@
   },
   {
     "id": "radio_lideranca",
-    "name": "Liderança FM",
+    "name": "Rádio Liderança FM",
     "type": "radio",
     "url": "https://webradio.amsolution.com.br/radio/8320/lideranca",
     "icon": "https://img.radios.com.br/radio/lg/radio13690_1510752146.jpg",
@@ -205,7 +205,7 @@
   },
   {
     "id": "somzoom_sat",
-    "name": "SomZoom Sat",
+    "name": "Rádio SomZoom Sat",
     "type": "radio",
     "url": "http://str.7br.com.br:8060/stream",
     "icon": "https://img.radios.com.br/radio/lg/radio42319_1738566104.jpeg",
@@ -217,7 +217,7 @@
   },
   {
     "id": "verdinha",
-    "name": "Verdinha 92.5 FM",
+    "name": "Rádio Verdinha 92.5 FM",
     "type": "radio",
     "url": "https://5a1c76baf08c0.streamlock.net/z18-live/stream/chunklist.m3u8",
     "icon": "https://img.radios.com.br/radio/lg/radio14216_1680528339.jpg",
@@ -301,7 +301,7 @@
   },        
   {
     "id": "mirante96.1fm",
-    "name": "Mirante 96.1 FM",
+    "name": "Rádio Mirante 96.1 FM",
     "type": "radio",
     "url": "https://mirante2.jmvstream.com/stream",
     "icon": "https://img.radios.com.br/radio/lg/radio13935_1744986574.png",
@@ -313,7 +313,7 @@
   },
   {
     "id": "radiobacabal93.1fm",
-    "name": "Bacabal 93.1 FM",
+    "name": "Rádio Bacabal 93.1 FM",
     "type": "radio",
     "url": "http://stm7.xcast.com.br:12432/stream",
     "icon": "https://img.radios.com.br/radio/lg/radio42603_1683298791.jpg",
@@ -325,7 +325,7 @@
   },
   {
     "id": "jovempan",
-    "name": "Jovem Pan 102.5 FM",
+    "name": "Rádio Jovem Pan 102.5 FM",
     "type": "radio",
     "url": "https://radio02.zas.media/proxy/jovempansaoluis/stream",
     "icon": "https://img.radios.com.br/radio/lg/radio16168_1674831310.jpg",
@@ -337,7 +337,7 @@
   },
   {
     "id": "radiopinheiro",
-    "name": "Pinheiro 103.3 FM",
+    "name": "Rádio Pinheiro 103.3 FM",
     "type": "radio",
     "url": "http://stm15.betelhost.com.br:9050/stream",
     "icon": "https://img.radios.com.br/radio/lg/radio185009_1626443891.jpg",
@@ -396,6 +396,30 @@
     "letter": "C"
   },
   {
+    "id": "lightfm103.9",
+    "name": "Light FM 103.9",
+    "type": "radio",
+    "url": "https://8231.brasilstream.com.br/stream",
+    "icon": "https://lightfm1039.com.br/wp-content/uploads/2022/09/cropped-favicon-180x180.png",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "category": "mg",
+    "frequency": "FM 103.9",
+    "letter": "L"
+  },
+  {
+    "id": "radiomaisfm935",
+    "name": "Mais FM 93.5",
+    "type": "radio",
+    "url": "https://conecta.welltecnologia.com.br/radio/8160/radio.mp3",
+    "icon": "https://img.radios.com.br/radio/lg/radio13758_1687534368.png",
+    "city": "Araguari",
+    "state": "MG",
+    "category": "mg",
+    "frequency": "93.5 FM",
+    "letter": "M"
+  },
+  {
     "id": "radiomaxima97.1fm",
     "name": "Máxima 97.1 FM",
     "type": "radio",
@@ -420,16 +444,16 @@
     "letter": "M"
   },
   {
-    "id": "lightfm103.9",
-    "name": "Light FM 103.9",
+    "id": "radionovasertanejabh945fm",
+    "name": "Nova Sertaneja BH 94.5 FM",
     "type": "radio",
-    "url": "https://8231.brasilstream.com.br/stream",
-    "icon": "https://lightfm1039.com.br/wp-content/uploads/2022/09/cropped-favicon-180x180.png",
+    "url": "https://cdn.live.br1.jmvstream.com/liveaudio/novasertanejabh/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio41946_1720699182.png",
     "city": "Belo Horizonte",
     "state": "MG",
     "category": "mg",
-    "frequency": "FM 103.9",
-    "letter": "L"
+    "frequency": "94.5 FM",
+    "letter": "N"
   },
   {
     "id": "radiosuper95fm",
@@ -442,6 +466,18 @@
     "category": "mg",
     "frequency": "95 FM",
     "letter": "S"
+  },
+  {
+    "id": "radiovox1971fm",
+    "name": "Vox 97.1 FM",
+    "type": "radio",
+    "url": "https://audio.heek.com.br/97fmvale",
+    "icon": "https://img.radios.com.br/radio/lg/radio13335_1684279282.jpg",
+    "city": "Timóteo",
+    "state": "MG",
+    "category": "mg",
+    "frequency": "97.1 FM",
+    "letter": "V"
   },
   {
     "id": "radioacai1049fm",
@@ -637,7 +673,7 @@
   },
   {
     "id": "radio_99fm",
-    "name": "99 FM",
+    "name": "Rádio 99 FM",
     "type": "radio",
     "url": "http://hts02.kshost.com.br:8862/live",
     "icon": "https://img.radios.com.br/radio/lg/radio8901_1713424756.jpeg",
@@ -645,13 +681,13 @@
     "state": "PA",
     "category": "pa",
     "frequency": "99 FM",
-    "letter": "9"
+    "letter": "R"
   },
   {
     "id": "radiocidade979fm",
     "name": "Cidade FM 97.9",
     "type": "radio",
-    "url": "http://sv11.hdradios.net:8118/stream?type=.flv",
+    "url": "http://sv11.hdradios.net:8118/stream",
     "icon": "https://img.radios.com.br/radio/lg/radio13192_1711350743.jpg",
     "city": "Piripiri",
     "state": "PI",
@@ -793,7 +829,7 @@
   },
   {
     "id": "hot_fm",
-    "name": "Hot 107 FM",
+    "name": "Rádio Hot 107 FM",
     "type": "radio",
     "url": "https://9772.brasilstream.com.br/stream",
     "icon": "https://img.radios.com.br/radio/lg/radio8760_1565178044.png",
@@ -805,7 +841,7 @@
   },
   {
     "id": "jovempan",
-    "name": "Jovem Pan 100.9 FM",
+    "name": "Rádio Jovem Pan 100.9 FM",
     "type": "radio",
     "url": "https://stream-168.zeno.fm/c45wbq2us3buv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjNDV3YnEydXMzYnV2IiwiaG9zdCI6InN0cmVhbS0xNjguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik9LZER3SmFWVG02eDJNS3g1M2JyZ1EiLCJpYXQiOjE3NTA2NDQ0OTIsImV4cCI6MTc1MDY0NDU1Mn0.OuqGpch5zeJ1VonTyvCCiIYjXP5584aqX5jXvGOeXbo",
     "icon": "https://img.radios.com.br/radio/lg/radio8829_1708517690.png",
@@ -817,7 +853,7 @@
   },
   {
     "id": "radio_mix",
-    "name": "Mix 107.9 FM",
+    "name": "Rádio Mix 107.9 FM",
     "type": "radio",
     "url": "https://24233.live.streamtheworld.com:443/MIXFM_SAOPAULOAAC.aac",
     "icon": "https://img.radios.com.br/radio/lg/radio217985_1701706636.png",
@@ -825,11 +861,11 @@
     "state": "SP",
     "category": "sp",
     "frequency": "107.9 FM",
-    "letter": "M"
+    "letter": "J"
   },
   {
     "id": "radio_89fm",
-    "name": "89 FM Rádio Rock",
+    "name": "Rádio 89 FM Rádio Rock",
     "type": "radio",
     "url": "https://26523.live.streamtheworld.com:443/RADIO_89FM_ADP.aac",
     "icon": "https://img.radios.com.br/radio/lg/radio31289_1439401796.jpg",
@@ -841,7 +877,7 @@
   },
   {
     "id": "radio_transamerica",
-    "name": "Transamérica 100.1 FM",
+    "name": "Rádio Transamérica 100.1 FM",
     "type": "radio",
     "url": "https://26663.live.streamtheworld.com:443/RT_SP.mp3",
     "icon": "https://img.radios.com.br/radio/lg/radio8803_1578516680.png",
