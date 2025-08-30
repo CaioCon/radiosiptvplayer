@@ -396,6 +396,18 @@
     "letter": "C"
   },
   {
+    "id": "grandefm921douradosm",
+    "name": "Grande FM 92,1",
+    "type": "radio",
+    "url": "https://9867.brasilstream.com.br/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio13334_1674047000.png",
+    "city": "Dourados",
+    "state": "MG",
+    "category": "mg",
+    "frequency": "92.1 FM",
+    "letter": "G"
+  },
+  {
     "id": "lightfm103.9",
     "name": "Light FM 103.9",
     "type": "radio",
@@ -417,6 +429,18 @@
     "state": "MG",
     "category": "mg",
     "frequency": "93.5 FM",
+    "letter": "M"
+  },
+  {
+    "id": "rdiomax959fm",
+    "name": "Max 95.9 FM",
+    "type": "radio",
+    "url": "https://9843.brasilstream.com.br/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio13828_1684427264.jpg",
+    "city": "Itajubá",
+    "state": "MG",
+    "category": "mg",
+    "frequency": "95.9 FM",
     "letter": "M"
   },
   {
@@ -816,6 +840,18 @@
     "letter": "V"
   },
   {
+    "id": "radio_89fm",
+    "name": "89 FM Rádio Rock",
+    "type": "radio",
+    "url": "https://26523.live.streamtheworld.com:443/RADIO_89FM_ADP.aac",
+    "icon": "https://img.radios.com.br/radio/lg/radio31289_1439401796.jpg",
+    "city": "São Paulo",
+    "state": "SP",
+    "category": "sp",
+    "frequency": "89 FM",
+    "letter": "R"
+  },
+  {
     "id": "antena1",
     "name": "Antena 1 94.7 FM",
     "type": "radio",
@@ -828,12 +864,24 @@
     "letter": "A"
   },
   {
-    "id": "hot_fm",
+    "id": "cbnribeiraopreto",
+    "name": "CBN Ribeirao Preto 90.5 FM",
+    "type": "radio",
+    "url": "https://8350.brasilstream.com.br/stream",
+    "icon": "https://img.radios.com.br/radio/md/radio24138_1589540681.jpg",
+    "city": "São Paulo",
+    "state": "SP",
+    "category": "sp",
+    "frequency": "90.5 FM",
+    "letter": "C"
+  },
+  {
+    "id": "hot107",
     "name": "Hot 107 FM",
     "type": "radio",
     "url": "https://9772.brasilstream.com.br/stream",
-    "icon": "https://img.radios.com.br/radio/lg/radio8760_1565178044.png",
-    "city": "São Paulo",
+    "icon": "https://img.radios.com.br/radio/md/radio8760_1565178044.png",
+    "city": "Lençóis Paulista",
     "state": "SP",
     "category": "sp",
     "frequency": "107 FM",
@@ -843,13 +891,25 @@
     "id": "jovempansp",
     "name": "Jovem Pan 100.9 FM",
     "type": "radio",
-    "url": "https://stream-168.zeno.fm/c45wbq2us3buv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjNDV3YnEydXMzYnV2IiwiaG9zdCI6InN0cmVhbS0xNjguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik9LZER3SmFWVG02eDJNS3g1M2JyZ1EiLCJpYXQiOjE3NTA2NDQ0OTIsImV4cCI6MTc1MDY0NDU1Mn0.OuqGpch5zeJ1VonTyvCCiIYjXP5584aqX5jXvGOeXbo",
+    "url": "https://stream-166.zeno.fm/c45wbq2us3buv?zt=",
     "icon": "https://img.radios.com.br/radio/lg/radio8829_1708517690.png",
     "city": "São Paulo",
     "state": "SP",
     "category": "sp",
     "frequency": "100.9 FM",
     "letter": "J"
+  },
+  {
+    "id": "radiomaisfm1029",
+    "name": "Mais FM 102.9 FM",
+    "type": "radio",
+    "url": "https://8313.brasilstream.com.br/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio221660_1737633908.jpg",
+    "city": "São Paulo",
+    "state": "SP",
+    "category": "sp",
+    "frequency": "102.9 FM",
+    "letter": "M"
   },
   {
     "id": "radio_mix",
@@ -862,18 +922,6 @@
     "category": "sp",
     "frequency": "107.9 FM",
     "letter": "J"
-  },
-  {
-    "id": "radio_89fm",
-    "name": "89 FM Rádio Rock",
-    "type": "radio",
-    "url": "https://26523.live.streamtheworld.com:443/RADIO_89FM_ADP.aac",
-    "icon": "https://img.radios.com.br/radio/lg/radio31289_1439401796.jpg",
-    "city": "São Paulo",
-    "state": "SP",
-    "category": "sp",
-    "frequency": "89 FM",
-    "letter": "R"
   },
   {
     "id": "radio_transamerica",
