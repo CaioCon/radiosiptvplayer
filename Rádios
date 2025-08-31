@@ -840,6 +840,42 @@
     "letter": "V"
   },
   {
+    "id": 'cbn_rj',
+    "name": 'CBN Rio de Janeiro 92.5 FM',
+    "type": 'radio',
+    "url": 'https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJ.mp3',
+    "icon": 'https://img.radios.com.br/radio/md/radio8819_1573682766.jpg',
+    "city": 'Rio De Janeiro',
+    "state": 'RJ',
+    "category": 'rj',
+    "frequency": '92.5 FM',
+    "letter": 'C'
+  },
+  {
+    "id": 'fm_o_dia',
+    "name": 'FM O Dia 100.5',
+    "type": 'radio',
+    "url": 'https://streaming.livespanel.com:8016/fmodia',
+    "icon": 'https://img.radios.com.br/radio/lg/radio13213_1705409045.jpeg',
+    "city": 'Rio De Janeiro',
+    "state": 'RJ',
+    "category": 'rj',
+    "frequency": '103.3 FM',
+    "letter": 'F'
+  },
+  {
+    "id": 'globo_rj',
+    "name": 'Rádio Globo RJ 98.1 FM',
+    "type": 'radio',
+    "url": 'https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_GLOBO_RJ.mp3',
+    "icon": 'https://img.radios.com.br/radio/md/radio8817_1676300226.png',
+    "city": 'Rio De Janeiro',
+    "state": 'RJ',
+    "category": 'rj',
+    "frequency: '98.1 FM',
+    "letter": 'G'
+  },
+  {
     "id": "radio_89fm",
     "name": "89 FM Rádio Rock",
     "type": "radio",
