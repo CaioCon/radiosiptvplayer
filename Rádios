@@ -13,11 +13,11 @@
   },
   {
     "id": "radioaquarela1025fm",
-    "name": "Aquarela 102.5 FM "CE",
+    "name": "Aquarela 102.5 FM",
     "type": "radio",
     "url": "http://192.99.44.104:8384/stream",
     "icon": "https://img.radios.com.br/radio/lg/radio24415_1599646040.jpeg",
-    "city": "Canindé",
+    "city": "Canindé", "CE",
     "state": "CE",
     "category": "ce",
     "frequency": "102.5 FM",
