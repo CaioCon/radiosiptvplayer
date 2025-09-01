@@ -324,6 +324,18 @@
     "letter": "B"
   },
   {
+    "id": "digital879fmma",
+    "name": "Digital 87.9 FM",
+    "type": "radio",
+    "url": "http://stm21.srvaudio.com.br:11676/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio41227_1693492557.jpeg",
+    "city": "Santa Luzia do Paruá - MA",
+    "state": "MA",
+    "category": "ma",
+    "frequency": "87.9 FM",
+    "letter": "D"
+  },
+  {
     "id": "jovempanma",
     "name": "Jovem Pan 102.5 FM",
     "type": "radio",
