@@ -5,7 +5,7 @@
     "type": "radio",
     "url": "https://stm11.voxhd.com.br:8868/stream",
     "icon": "https://img.radios.com.br/radio/lg/radio24733_1715761315.png",
-    "city": "Acaraú",
+    "city": "Acaraú", "CE",
     "state": "CE",
     "category": "ce",
     "frequency": "91.5 FM",
