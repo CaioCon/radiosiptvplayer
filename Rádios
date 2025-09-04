@@ -84,6 +84,19 @@
     "letter": "D"
   },
   {
+    "id": "fm_93",
+    "name": "FM 93",
+    "type": "radio",
+    "metadata": "https://backend.radiolise.com/api/v1/metadata?url=",
+    "url": "http://zoeweb.net:8176/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio107_1664371637.png",
+    "city": "Fortaleza",
+    "state": "CE",
+    "category": "ce",
+    "frequency": "93 FM",
+    "letter": "F"
+  },
+  {
     "id": "radioforquilha987fm",
     "name": "Forquilha 98.7 FM",
     "type": "radio",
@@ -154,18 +167,6 @@
     "category": "ce",
     "frequency": "105.1 FM",
     "letter": "P"
-  },
-  {
-    "id": "fm_93",
-    "name": "Rádio 93 FM",
-    "type": "radio",
-    "url": "https://jvcs2dtro0.zoeweb.tv/fm93/stream/chunklist_w518906299.m3u8",
-    "icon": "https://img.radios.com.br/radio/lg/radio107_1664371637.png",
-    "city": "Fortaleza",
-    "state": "CE",
-    "category": "ce",
-    "frequency": "93 FM",
-    "letter": "R"
   },
   {
     "id": "cidade_fm",
