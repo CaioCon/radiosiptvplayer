@@ -424,7 +424,7 @@
     "id": "lightfm103.9",
     "name": "Light FM 103.9",
     "type": "radio",
-    "metadata": "https://backend.radiolise.com/api/v1/metadata?url=
+    "metadata": "https://backend.radiolise.com/api/v1/metadata?url=",
     "url": "https://8231.brasilstream.com.br/stream",
     "icon": "https://lightfm1039.com.br/wp-content/uploads/2022/09/cropped-favicon-180x180.png",
     "city": "Belo Horizonte",
