@@ -1051,6 +1051,19 @@
     "letter": "M"
   },
   {
+    "id": "massafmsp",
+    "name": "Massa 92.9 FM",
+    "type": "radio",
+    "metadata": "https://backend.radiolise.com/api/v1/metadata?url=",
+    "url": "https://stm01.virtualcast.com.br:8000/massasaopaulo",
+    "icon": "https://img.radios.com.br/radio/lg/radio119934_1687533777.jpg",
+    "city": "São Paulo",
+    "state": "SP",
+    "category": "sp",
+    "frequency": "92.9 FM",
+    "letter": "M"
+  },
+  {
     "id": "radio_mix",
     "name": "Mix 107.9 FM",
     "type": "radio",
