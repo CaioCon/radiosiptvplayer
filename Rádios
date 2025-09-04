@@ -1036,6 +1036,7 @@
     "id": "radiomaisfm1029",
     "name": "Mais FM 102.9 FM",
     "type": "radio",
+    "metadata": "https://backend.radiolise.com/api/v1/metadata?url=",
     "url": "https://8313.brasilstream.com.br/stream",
     "icon": "https://img.radios.com.br/radio/lg/radio221660_1737633908.jpg",
     "city": "São Paulo",
