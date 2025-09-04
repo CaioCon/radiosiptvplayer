@@ -195,6 +195,7 @@
     "id": "radio_lideranca",
     "name": "Liderança FM",
     "type": "radio",
+    "metadata": "https://backend.radiolise.com/api/v1/metadata?url=",
     "url": "https://webradio.amsolution.com.br/radio/8320/lideranca",
     "icon": "https://img.radios.com.br/radio/lg/radio13690_1510752146.jpg",
     "city": "Fortaleza",
