@@ -412,6 +412,7 @@
     "id": "grandefm921douradosm",
     "name": "Grande FM 92,1",
     "type": "radio",
+    "metadata": "https://backend.radiolise.com/api/v1/metadata?url=",
     "url": "https://9867.brasilstream.com.br/stream",
     "icon": "https://img.radios.com.br/radio/lg/radio13334_1674047000.png",
     "city": "Dourados",
