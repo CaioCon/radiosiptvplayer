@@ -1023,6 +1023,7 @@
     "id": "jovempansp",
     "name": "Jovem Pan 100.9 FM",
     "type": "radio",
+    "metadata:" "https://backend.radiolise.com/api/v1/metadata?url=",
     "url": "https://stream-166.zeno.fm/c45wbq2us3buv?zt=",
     "icon": "https://img.radios.com.br/radio/lg/radio8829_1708517690.png",
     "city": "São Paulo",
