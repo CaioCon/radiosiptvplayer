@@ -1052,6 +1052,19 @@
     "letter": "M"
   },
   {
+    "id": "metropolitana985fmsp",
+    "name": "Metropolitana 98.5 FM",
+    "type": "radio",
+    "metadata": "https://backend.radiolise.com/api/v1/metadata?url=",
+    "url": "https://f100.fabricahost.com.br/metropolitana985sp?f=1757299775N01K4KKN6A1QP0H4CNF4FYGX2JH&tid=01K4KKN6A11WG9R2DEQTDZ49ZQ",
+    "icon": "https://img.radios.com.br/radio/lg/radio13900_1665067845.png",
+    "city": "São Paulo - SP",
+    "state": "SP",
+    "category": "sp",
+    "frequency": "98.5 FM",
+    "letter": "M"
+  },
+  {
     "id": "radio_mix",
     "name": "Mix 107.9 FM",
     "type": "radio",
