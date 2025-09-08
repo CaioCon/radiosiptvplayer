@@ -48,15 +48,15 @@
     "letter": "C"
   },
   {
-    "id": "radioclube971fm",
-    "name": "Clube 97.1 FM",
+    "id": "cidade_fm",
+    "name": "Cidade 99.1 FM",
     "type": "radio",
-    "url": "https://f100.fabricahost.com.br/clubefmfortaleza?f=1757032614N01K4BMW2RN2FDKMP376HBYPVE8&tid=01K4BMW2RNK2GEWR7TXFGCM9WD",
-    "icon": "https://img.radios.com.br/radio/lg/radio257242_1734202818.png",
+    "url": "https://streaming.livespanel.com:9910/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio11435_1713540627.png",
     "city": "Fortaleza",
     "state": "CE",
     "category": "ce",
-    "frequency": " ",
+    "frequency": "99.1 FM",
     "letter": "C"
   },
   {
@@ -121,6 +121,18 @@
     "letter": "G"
   },
   {
+    "id": "jangadeiro_ce",
+    "name": "Jangadeiro 88.9 FM",
+    "type": "radio",
+    "url": "https://fmfortaleza.jmvstream.com/FMFortaleza_live?type=.flv",
+    "icon": "https://img.radios.com.br/radio/lg/radio13520_1692020159.png",
+    "city": "Fortaleza",
+    "state": "CE",
+    "category": "ce",
+    "frequency": "88.9 FM",
+    "letter": "J"
+  },
+  {
     "id": "radiolder1031fm",
     "name": "Líder 103.1 FM",
     "type": "radio",
@@ -130,6 +142,19 @@
     "state": "CE",
     "category": "ce",
     "frequency": "103.1 FM",
+    "letter": "L"
+  },
+  {
+    "id": "radio_lideranca",
+    "name": "Liderança FM",
+    "type": "radio",
+    "metadata": "https://backend.radiolise.com/api/v1/metadata?url=",
+    "url": "https://webradio.amsolution.com.br/radio/8320/lideranca",
+    "icon": "https://img.radios.com.br/radio/lg/radio13690_1510752146.jpg",
+    "city": "Fortaleza",
+    "state": "CE",
+    "category": "ce",
+    "frequency": "",
     "letter": "L"
   },
   {
@@ -169,67 +194,6 @@
     "letter": "P"
   },
   {
-    "id": "cidade_fm",
-    "name": "Cidade 99.1 FM",
-    "type": "radio",
-    "url": "https://streaming.livespanel.com:9910/stream",
-    "icon": "https://img.radios.com.br/radio/lg/radio11435_1713540627.png",
-    "city": "Fortaleza",
-    "state": "CE",
-    "category": "ce",
-    "frequency": "99.1 FM",
-    "letter": "C"
-  },
-  {
-    "id": "jangadeiro_ce",
-    "name": "Jangadeiro 88.9 FM",
-    "type": "radio",
-    "url": "https://fmfortaleza.jmvstream.com/FMFortaleza_live?type=.flv",
-    "icon": "https://img.radios.com.br/radio/lg/radio13520_1692020159.png",
-    "city": "Fortaleza",
-    "state": "CE",
-    "category": "ce",
-    "frequency": "88.9 FM",
-    "letter": "J"
-  },
-  {
-    "id": "radio_lideranca",
-    "name": "Liderança FM",
-    "type": "radio",
-    "metadata": "https://backend.radiolise.com/api/v1/metadata?url=",
-    "url": "https://webradio.amsolution.com.br/radio/8320/lideranca",
-    "icon": "https://img.radios.com.br/radio/lg/radio13690_1510752146.jpg",
-    "city": "Fortaleza",
-    "state": "CE",
-    "category": "ce",
-    "frequency": "",
-    "letter": "L"
-  },
-  {
-    "id": "somzoom_sat",
-    "name": "SomZoom Sat",
-    "type": "radio",
-    "url": "http://str.7br.com.br:8060/stream",
-    "icon": "https://img.radios.com.br/radio/lg/radio42319_1738566104.jpeg",
-    "city": "Fortaleza",
-    "state": "CE",
-    "category": "ce",
-    "frequency": "",
-    "letter": "S"
-  },
-  {
-    "id": "verdinha",
-    "name": "Verdinha 92.5 FM",
-    "type": "radio",
-    "url": "https://5a1c76baf08c0.streamlock.net/z18-live/stream/chunklist.m3u8",
-    "icon": "https://img.radios.com.br/radio/lg/radio14216_1680528339.jpg",
-    "city": "Fortaleza",
-    "state": "CE",
-    "category": "ce",
-    "frequency": "92.5 FM",
-    "letter": "V"
-  },
-  {
     "id": "radioriodasgaras1007fm",
     "name": "Rio das Garças 100.7 FM",
     "type": "radio",
@@ -251,6 +215,18 @@
     "state": "CE",
     "category": "ce",
     "frequency": "88.5 FM",
+    "letter": "S"
+  },
+  {
+    "id": "somzoom_sat",
+    "name": "SomZoom Sat",
+    "type": "radio",
+    "url": "http://str.7br.com.br:8060/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio42319_1738566104.jpeg",
+    "city": "Fortaleza",
+    "state": "CE",
+    "category": "ce",
+    "frequency": "",
     "letter": "S"
   },
   {
@@ -278,6 +254,18 @@
     "letter": "T"
   },
   {
+    "id": "verdinha",
+    "name": "Verdinha 92.5 FM",
+    "type": "radio",
+    "url": "https://5a1c76baf08c0.streamlock.net/z18-live/stream/chunklist.m3u8",
+    "icon": "https://img.radios.com.br/radio/lg/radio14216_1680528339.jpg",
+    "city": "Fortaleza",
+    "state": "CE",
+    "category": "ce",
+    "frequency": "92.5 FM",
+    "letter": "V"
+  },
+  {
     "id": "radiovida1049fm",
     "name": "Vida 104.9 FM",
     "type": "radio",
@@ -300,7 +288,7 @@
     "category": "ce",
     "frequency": "97.7 FM",
     "letter": "V"
-  },        
+  },
   {
     "id": "mirante96.1fm",
     "name": "Mirante 96.1 FM",
