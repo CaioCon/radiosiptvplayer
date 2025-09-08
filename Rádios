@@ -978,6 +978,19 @@
     "letter": "R"
   },
   {
+    "id": "ankhsp",
+    "name": "Ankh",
+    "type": "radio",
+    "metadata": "https://backend.radiolise.com/api/v1/metadata?url=",
+    "url": "https://s08.maxcast.com.br:8622/live",
+    "icon": "https://img.radios.com.br/radio/lg/radio271389_1754472324.png",
+    "city": "Santo André - SP",
+    "state": "SP",
+    "category": "sp",
+    "frequency": " ",
+    "letter": "A"
+  },
+  {
     "id": "antena1",
     "name": "Antena 1 94.7 FM",
     "type": "radio",
