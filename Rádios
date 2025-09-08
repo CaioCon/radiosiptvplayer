@@ -1093,6 +1093,7 @@
     "id": "radio_transamerica",
     "name": "Transamérica 100.1 FM",
     "type": "radio",
+    "metadata": "https://backend.radiolise.com/api/v1/metadata?url=",
     "url": "https://26663.live.streamtheworld.com:443/RT_SP.mp3",
     "icon": "https://img.radios.com.br/radio/lg/radio8803_1578516680.png",
     "city": "São Paulo - SP",
