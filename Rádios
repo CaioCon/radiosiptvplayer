@@ -434,7 +434,7 @@
     "letter": "M"
   },
   {
-    "id": "rdiomax959fm",
+    "id": "radiomax959fm",
     "name": "Max 95.9 FM",
     "type": "radio",
     "url": "https://9843.brasilstream.com.br/stream",
@@ -806,7 +806,7 @@
     "letter": "M"
   },
   {
-    "id": "nossardio1013fm",
+    "id": "nossaradio1013fmpi",
     "name": "Nossa Rádio FM 101.3",
     "type": "radio",
     "url": "https://servidor24.brlogic.com:8544/live",
@@ -891,9 +891,22 @@
     "letter": "H"
   },
   {
+    "id": "radiojbfm999rj",
+    "name": "JB FM 99.9",
+    "type": "radio",
+    "url": "https://13693.live.streamtheworld.com:443/JBFMAAC.aac?dist=radios.com.br",
+    "icon": "https://img.radios.com.br/radio/lg/radio13654_1668607474.jpg",
+    "city": "Rio De Janeiro - RJ",
+    "state": "RJ",
+    "category": "rj",
+    "frequency": "99.9 FM",
+    "letter": "J"
+  },
+  {
     "id": "radiogloborj",
     "name": "Rádio Globo RJ 98.1 FM",
     "type": "radio",
+    "metadata": "https://backend.radiolise.com/api/v1/metadata?url=",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_GLOBO_RJ.mp3",
     "icon": "https://img.radios.com.br/radio/md/radio8817_1676300226.png",
     "city": "Rio De Janeiro - RJ",
@@ -903,7 +916,7 @@
     "letter": "G"
   },
   {
-    "id": "rrdioserramar921fmrj",
+    "id": "radioserramar921fmrj",
     "name": "Serramar 92.1 FM",
     "type": "radio",
     "metadata": "https://backend.radiolise.com/api/v1/metadata?url=",
