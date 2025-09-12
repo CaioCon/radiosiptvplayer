@@ -894,6 +894,7 @@
     "id": "radiojbfm999rj",
     "name": "JB FM 99.9",
     "type": "radio",
+    "metadata": "https://backend.radiolise.com/api/v1/metadata?url=",
     "url": "https://13693.live.streamtheworld.com:443/JBFMAAC.aac?dist=radios.com.br",
     "icon": "https://img.radios.com.br/radio/lg/radio13654_1668607474.jpg",
     "city": "Rio De Janeiro - RJ",
