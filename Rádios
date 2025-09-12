@@ -903,6 +903,19 @@
     "letter": "G"
   },
   {
+    "id": "rrdioserramar921fmrj",
+    "name": "Serramar 92.1 FM",
+    "type": "radio",
+    "metadata": "https://backend.radiolise.com/api/v1/metadata?url=",
+    "url": "https://www.appradio.app:8105/live",
+    "icon": "https://img.radios.com.br/radio/lg/radio26503_1555500654.jpeg",
+    "city": "Saquarema - RJ",
+    "state": "RJ",
+    "category": "rj",
+    "frequency": "92.1 FM",
+    "letter": "S"
+  },
+  {
     "id": "radioalpha913fmsc",
     "name": "Alpha 91.3 FM",
     "type": "radio",
