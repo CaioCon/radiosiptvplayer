@@ -866,6 +866,19 @@
     "letter": "C"
   },
   {
+    "id": "radioclube1052fmrj",
+    "name": "Clube 105.2 FM",
+    "type": "radio",
+    "metadata": "https://backend.radiolise.com/api/v1/metadata?url=",
+    "url": "https://stm1.matutos.com.br:11694/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio255850_1731956171.png",
+    "city": "Angra Dos Reis",
+    "state": "RJ",
+    "category": "rj",
+    "frequency": "105.2 FM",
+    "letter": "C"
+  },
+  {
     "id": "fm_o_dia",
     "name": "FM O Dia 100.5",
     "type": "radio",
