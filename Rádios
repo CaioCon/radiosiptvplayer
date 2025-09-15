@@ -1056,6 +1056,7 @@
     "id": "radio105sc",
     "name": "105 FM",
     "type": "radio",
+    "metadata": "https://backend.radiolise.com/api/v1/metadata?url=",
     "url": "http://rrdns-rcr.webnow.com.br/radio105.aac",
     "icon": "https://img.radios.com.br/radio/lg/radio8866_1550608768.jpg",
     "city": "Criciúma - SC",
