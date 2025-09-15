@@ -7,14 +7,5 @@
     "icon": "https://kpoptv.htforum.net/wp-content/uploads/2024/11/logokpoptvplay-300x169.png",
     "category": "Coreia",
     "letter": "K"
-  },
-  {
-    "id": "exemplo2",
-    "name": "Canal Exemplo 2",
-    "type": "web", 
-    "video": "https://url-do-stream-do-canal.m3u8",
-    "icon": "https://url-do-icone.png",
-    "category": "Categoria",
-    "letter": "E"
   }
 ]
