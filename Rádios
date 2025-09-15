@@ -353,6 +353,7 @@
     "id": "radioflexplayma",
     "name": "Flex Play",
     "type": "radio",
+    "metadata": "https://backend.radiolise.com/api/v1/metadata?url=",
     "url": "http://stream-155.zeno.fm/tlsaldv2pjuvv?zt",
     "icon": "https://img.radios.com.br/radio/lg/radio35707_1675186572.png",
     "city": "São Luís - Ma",
