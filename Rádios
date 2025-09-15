@@ -403,7 +403,6 @@
     "id": "radiomaniabhs925ma",
     "name": "Mania Bhs 92.5 FM",
     "type": "radio",
-    "metadata": "https://backend.radiolise.com/api/v1/metadata?url=",
     "url": "https://hts04.brascast.com:10936/live",
     "icon": "https://img.radios.com.br/radio/lg/radio190499_1633604101.png",
     "city": "Barreirinhas - MA",
