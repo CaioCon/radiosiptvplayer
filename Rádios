@@ -353,7 +353,6 @@
     "id": "radioflexplayma",
     "name": "Flex Play",
     "type": "radio",
-    "metadata": "https://backend.radiolise.com/api/v1/metadata?url=",
     "url": "http://stream-155.zeno.fm/tlsaldv2pjuvv?zt",
     "icon": "https://img.radios.com.br/radio/lg/radio35707_1675186572.png",
     "city": "São Luís - Ma",
@@ -390,12 +389,25 @@
     "id": "radiomaisfm999ma",
     "name": "Mais FM 99.9",
     "type": "radio",
+    "metadata": "https://backend.radiolise.com/api/v1/metadata?url=",
     "url": "http://cc1.streammaximum.com:8193/stream",
     "icon": "https://img.radios.com.br/radio/lg/radio13756_1711003980.jpeg",
     "city": "São Luís - MA",
     "state": "MA",
     "category": "ma",
     "frequency": "99.9 FM",
+    "letter": "M"
+  },
+  {
+    "id": "radiomaniabhs925ma",
+    "name": "Mania Bhs 92.5 FM",
+    "type": "radio",
+    "url": "https://hts04.brascast.com:10936/live",
+    "icon": "https://img.radios.com.br/radio/lg/radio190499_1633604101.png",
+    "city": "Barreirinhas - MA",
+    "state": "MA",
+    "category": "ma",
+    "frequency": "92.5 FM",
     "letter": "M"
   },
   {
