@@ -1053,6 +1053,18 @@
     "letter": "S"
   },
   {
+    "id": "radio105sc",
+    "name": "105 FM",
+    "type": "radio",
+    "url": "http://rrdns-rcr.webnow.com.br/radio105.aac",
+    "icon": "https://img.radios.com.br/radio/lg/radio8866_1550608768.jpg",
+    "city": "Criciúma - SC",
+    "state": "SC",
+    "category": "sc",
+    "frequency": "105 FM",
+    "letter": "1"
+  },
+  {
     "id": "radioalpha913fmsc",
     "name": "Alpha 91.3 FM",
     "type": "radio",
@@ -1123,6 +1135,18 @@
     "category": "sc",
     "frequency": "101.9 FM",
     "letter": "J"
+  },
+  {
+    "id": "maximahits967sc",
+    "name": "Máxima Hits 96.7 FM",
+    "type": "radio",
+    "url": "https://radio.saopaulo01.com.br/9486/stream",
+    "icon": "https://cdn.onlineradiobox.com/img/l/6/71166.v11.png",
+    "city": "Joinville - SC",
+    "state": "SC",
+    "category": "sc",
+    "frequency": "96.7 FM",
+    "letter": "M"
   },
   {
     "id": "radioesperana927fmse",
