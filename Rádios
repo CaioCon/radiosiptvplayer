@@ -290,16 +290,28 @@
     "letter": "V"
   },
   {
-    "id": "mirante96.1fm",
-    "name": "Mirante 96.1 FM",
+    "id": "radio923fmma",
+    "name": "92.3 FM",
     "type": "radio",
-    "url": "https://mirante2.jmvstream.com/stream",
-    "icon": "https://img.radios.com.br/radio/lg/radio13935_1744986574.png",
+    "url": "https://centova.svdns.com.br:20024/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio97_1719930469.png",
     "city": "São Luís - MA",
     "state": "MA",
     "category": "ma",
-    "frequency": "96.1 FM",
-    "letter": "M"
+    "frequency": " ",
+    "letter": "9"
+  },
+  {
+    "id": "radioaltofmma",
+    "name": "Alto FM",
+    "type": "radio",
+    "url": "https://streaming.livespanel.com:9905/altofm",
+    "icon": "https://static.tudoradio.com/ins/w:90/plain/https://tudoradio.com/img/uploads/radios/649a05e2dd38a.png",
+    "city": "Lago da Pedra - MA",
+    "state": "MA",
+    "category": "ma",
+    "frequency": "90.5 FM",
+    "letter": "A"
   },
   {
     "id": "radiobacabal93.1fm",
@@ -314,6 +326,18 @@
     "letter": "B"
   },
   {
+    "id": "rsdioconquista879fmma",
+    "name": "Conquista 87.9 FM",
+    "type": "radio",
+    "url": "https://sv13.hdradios.net:8938/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio220365_1688391403.png",
+    "city": "Chapadinha - MA",
+    "state": "MA",
+    "category": "ma",
+    "frequency": "87.9 FM",
+    "letter": "C"
+  },
+  {
     "id": "digital879fmma",
     "name": "Digital 87.9 FM",
     "type": "radio",
@@ -324,6 +348,30 @@
     "category": "ma",
     "frequency": "87.9 FM",
     "letter": "D"
+  },
+  {
+    "id": "radioflexplayma",
+    "name": "Flex Play",
+    "type": "radio",
+    "url": "http://stream-155.zeno.fm/tlsaldv2pjuvv?zt",
+    "icon": "https://img.radios.com.br/radio/lg/radio35707_1675186572.png",
+    "city": "São Luís - Ma",
+    "state": "MA",
+    "category": "ma",
+    "frequency": " ",
+    "letter": "F"
+  },
+  {
+    "id": "radioguarapary1067ma",
+    "name": "Guarapary 106.7 FM",
+    "type": "radio",
+    "url": "https://server06.srvsh.com.br:7300/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio201588_1655926509.jpg",
+    "city": "Codó - MA",
+    "state": "MA",
+    "category": "ma",
+    "frequency": "106.7 FM",
+    "letter": "G"
   },
   {
     "id": "jovempanma",
@@ -338,6 +386,42 @@
     "letter": "J"
   },
   {
+    "id": "radiomaisfm999ma",
+    "name": "Mais FM 99.9",
+    "type": "radio",
+    "url": "http://cc1.streammaximum.com:8193/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio13756_1711003980.jpeg",
+    "city": "São Luís - MA",
+    "state": "MA",
+    "category": "ma",
+    "frequency": "99.9 FM",
+    "letter": "M"
+  },
+  {
+    "id": "mirante96.1fm",
+    "name": "Mirante 96.1 FM",
+    "type": "radio",
+    "url": "https://mirante2.jmvstream.com/stream",
+    "icon": "https://img.radios.com.br/radio/lg/radio13935_1744986574.png",
+    "city": "São Luís - MA",
+    "state": "MA",
+    "category": "ma",
+    "frequency": "96.1 FM",
+    "letter": "M"
+  },
+  {
+    "id": "radionovasantains879ma",
+    "name": "Nova Santa Inês 87.9 FM",
+    "type": "radio",
+    "url": "https://hts03.brascast.com:12272/live",
+    "icon": "https://img.radios.com.br/radio/lg/radio198410_1649166534.jpeg",
+    "city": "Santa Inês - MA",
+    "state": "MA",
+    "category": "ma",
+    "frequency": "87.9 FM",
+    "letter": "N"
+  },
+  {
     "id": "radiopinheiroma",
     "name": "Pinheiro 103.3 FM",
     "type": "radio",
@@ -348,6 +432,18 @@
     "category": "ma",
     "frequency": "103.3 FM",
     "letter": "P"
+  },
+  {
+    "id": "radioverdescampos911ma",
+    "name": "Verdes Campos 91.1 FM",
+    "type": "radio",
+    "url": "https://player.rpmhost.com.br/proxy/8102",
+    "icon": "https://img.radios.com.br/radio/lg/radio235184_1754325227.png",
+    "city": "Coroatá - MA",
+    "state": "MA",
+    "category": "ma",
+    "frequency": "91.1 FM",
+    "letter": "V"
   },
   {
     "id": "alvoradafm94.9",
