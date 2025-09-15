@@ -1405,6 +1405,19 @@
     "letter": "J"
   },
   {
+    "id": "radiosaudade997sp",
+    "name": "Saudade 99.7 FM",
+    "type": "radio",
+    "metadata": "https://backend.radiolise.com/api/v1/metadata?url=",
+    "url": "https://27433.live.streamtheworld.com:443/SAUDADE_FMAAC.aac?dist=radios.com.br",
+    "icon": "https://img.radios.com.br/radio/lg/radio8_1626274312.png",
+    "city": "Santos - SP",
+    "state": "SP",
+    "category": "sp",
+    "frequency": "99.7 FM",
+    "letter": "S"
+  },
+  {
     "id": "radio_transamerica",
     "name": "Transamérica 100.1 FM",
     "type": "radio",
