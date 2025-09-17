@@ -208,6 +208,18 @@
     "letter": "R"
   },
   {
+    "id": "rasdiorvs957ce",
+    "name": "RVS 95.7 FM",
+    "type": "radio",
+    "url": "https://radio.stmsrv.com:9802/;",
+    "icon": "https://img.radios.com.br/radio/lg/radio14692_1723832543.jpg",
+    "city": "Lavras da Mangabeira - CE",
+    "state": "CE",
+    "category": "ce",
+    "frequency": "95.7 FM",
+    "letter": "R"
+  },
+  {
     "id": "radiosaobento885fm",
     "name": "São Bento 88.5 FM",
     "type": "radio",
