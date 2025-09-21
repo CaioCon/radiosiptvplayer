@@ -1104,6 +1104,18 @@
     "letter": "A"
   },
   {
+    "id": "radiobrasilnovo943",
+    "name": "Brasil Novo 94.3 FM",
+    "type": "radio",
+    "url": "https://stm10.virtualcast.com.br:8464/rbnjaraguasul",
+    "icon": "https://img.radios.com.br/radio/lg/radio10493_1579084852.jpg",
+    "city": "Jaraguá do Sul - SC",
+    "state": "SC",
+    "category": "sc",
+    "frequency": "94.3 FM",
+    "letter": "B"
+  },
+  {
     "id": "biguacu983fmsc",
     "name": "Biguaçu 98.3 FM",
     "type": "radio",
